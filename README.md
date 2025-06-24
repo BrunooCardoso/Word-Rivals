@@ -1,5 +1,8 @@
 # X1Contexto
-X1 no contexto
+Projeto apresentado na disciplina de Programação em Tempo Real, do curso de Engenharia de Sistemas, Unimontes.
+O projeto consiste na implementação de um sistema cliente-servidor com um jogo de encontrar a palavra escolhida, inspirado no jogo Contexto.
+A ideia é dois clientes se enfrentarem e quem descobrir a palavra primeiro ou chegar mais próximo vence. 
+
 # 🚀 Guia de Execução do Projeto
 
 ```bash
