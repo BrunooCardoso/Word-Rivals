@@ -1,0 +1,24 @@
+glove_s300.txt
+# Ignore the GloVe embeddings file
+glove_s300.filtered.txt
+# Ignore the filtered GloVe embeddings file
+client.py
+# Ignore the client script
+server.py
+# Ignore the server script
+test.py
+# Ignore the test script
+test_client.py
+# Ignore the test client script
+test_server.py
+# Ignore the test server script
+vectors.kv
+# Ignore the KeyedVectors file
+vectors.kv.vectors.npy
+# Ignore the numpy array of vectors
+teste.py
+# Ignore the test script for evaluation
+teste2.py
+# Ignore the second test script for evaluation
+cliente.py
+# Ignore the client script in Portuguese
